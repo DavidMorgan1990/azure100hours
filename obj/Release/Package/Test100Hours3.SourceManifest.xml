@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbDacFx path="C:\Users\DavidMorgan\Documents\Visual Studio 2012\Projects\DONEAPPdonotchange\obj\Release\AutoScripts\DefaultConnection_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <DbDacFx path="C:\Users\DavidMorgan\Documents\Visual Studio 2012\Projects\DONEAPPdonotchange\obj\Release\AutoScripts\ConnectionString2_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <DbDacFx path="C:\Users\DavidMorgan\Documents\Visual Studio 2012\Projects\DONEAPPdonotchange\obj\Release\AutoScripts\ConnectionString_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <IisApp path="C:\Users\DavidMorgan\Documents\Visual Studio 2012\Projects\DONEAPPdonotchange\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\DavidMorgan\Documents\Visual Studio 2012\Projects\DONEAPPdonotchange\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\DavidMorgan\Documents\Visual Studio 2012\Projects\DONEAPPdonotchange\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\DavidMorgan\Documents\Visual Studio 2012\Projects\DONEAPPdonotchange\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>
